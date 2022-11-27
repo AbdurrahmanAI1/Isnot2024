@@ -1,0 +1,25 @@
+img{
+    margin: 0 10 30 ;
+    align-content: center;
+}
+figure{
+    margin: 0 10;
+}
+figcaption{
+    text-align: justify;
+}
+#carouselExampleSlidesOnly{
+    margin: 0 20 0 10;
+}
+.navbar-brand{
+    margin: 15 0 0 0;
+}
+.bg{
+    background: ;
+}
+strong{
+    text-align: center;
+}
+.tgh{
+    text-align: center;
+}
